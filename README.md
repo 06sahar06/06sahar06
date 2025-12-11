@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sahar Guebsi and I'm an ICT engineering student working on AI projects</p>
+<p align="left">My name is Sahar Guebsi and I'm an ICT engineering student working on AI (sometimes web) projects</p>
 
 
 <h2 align="left">I code with</h2>
