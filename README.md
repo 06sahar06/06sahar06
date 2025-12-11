@@ -4,11 +4,6 @@
 
 <p align="left">My name is Sahar Guebsi and I'm an ICT engineering student working on AI projects</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
 
 <h2 align="left">I code with</h2>
 
